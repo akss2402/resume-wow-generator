@@ -41,7 +41,7 @@ export function Contact() {
                 Icon={Github}
                 label="GitHub"
                 value="View profile"
-                href="https://github.com/"
+                href="https://github.com/akss2402"
               />
               <ContactRow
                 Icon={Linkedin}
