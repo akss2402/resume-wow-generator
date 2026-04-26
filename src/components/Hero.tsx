@@ -70,7 +70,7 @@ export function Hero() {
 
               <div className="flex items-center gap-2 ml-2">
                 <SocialIcon href="https://github.com/akss2402" Icon={Github} />
-                <SocialIcon href="https://linkedin.com/" Icon={Linkedin} />
+                <SocialIcon href="https://www.linkedin.com/in/akashchauhan2402/" Icon={Linkedin} />
                 <SocialIcon href="mailto:akss240215@gmail.com" Icon={Mail} />
               </div>
             </motion.div>
