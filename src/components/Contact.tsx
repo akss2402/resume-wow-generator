@@ -47,7 +47,7 @@ export function Contact() {
                 Icon={Linkedin}
                 label="LinkedIn"
                 value="Connect with me"
-                href="https://linkedin.com/"
+                href="https://www.linkedin.com/in/akashchauhan2402/"
               />
             </div>
           </div>
